@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-sbtsbol",
+  "name": "eslint-config-sbol-a11y",
   "version": "0.0.2",
   "description": "Formalized jsx style guide for accessibility improvment",
   "main": "index.js",
