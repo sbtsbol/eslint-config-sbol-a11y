@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbtsbol/eslint-config-sbtsbol-a11y.git"
+    "url": "git+https://github.com/sbtsbol/eslint-config-sbol-a11y.git"
   },
   "keywords": [
     "styleguide",
@@ -24,17 +24,13 @@
   "author": "JSC SberTech",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sbtsbol/eslint-config-sbtsbol-a11y/issues"
+    "url": "https://github.com/sbtsbol/eslint-config-sbol-a11y/issues"
   },
-  "homepage": "https://github.com/sbtsbol/eslint-config-sbtsbol-a11y#readme",
+  "homepage": "https://github.com/sbtsbol/eslint-config-sbol-a11y#readme",
   "dependencies": {
     "eslint-plugin-jsx-a11y": "~6.0.2"
   },
   "peerDependencies": {
     "eslint": "^4.10.0"
-  },
-  "publishConfig": {
-    "registry": "http://nexus.sigma.sbrf.ru:8099/nexus/content/repositories/sbol_npm_release/",
-    "always-auth": true
   }
 }
