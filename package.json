@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-sbtsbol",
+  "version": "0.0.1",
+  "description": "Formalized jsx style guide for accessibility improvment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbtsbol/eslint-config-sbtsbol-a11y.git"
+  },
+  "keywords": [
+    "styleguide",
+    "javascript",
+    "accessibility",
+    "react",
+    "sbertech",
+    "sbtsbol",
+    "config",
+    "eslintconfig",
+    "eslint"
+  ],
+  "author": "JSC SberTech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbtsbol/eslint-config-sbtsbol-a11y/issues"
+  },
+  "homepage": "https://github.com/sbtsbol/eslint-config-sbtsbol-a11y#readme",
+  "dependencies": {
+    "eslint-plugin-jsx-a11y": "~6.0.2"
+  },
+  "peerDependencies": {
+    "eslint": "^4.10.0"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.sigma.sbrf.ru:8099/nexus/content/repositories/sbol_npm_release/",
+    "always-auth": true
+  }
+}
